@@ -1,0 +1,6 @@
+1.绑定哔哩哔哩缓存位置
+2.绑定ffmpeg运行程序
+3.执行
+4.issue反馈地址
+
+https://github.com/xyblue135/BilibiliDownloader
